@@ -1,23 +1,23 @@
 {
     "report_url": "",
-    "proxy_scraper": "n",
+    "proxy_scraper": "y",
     "threads": 200,
 
     "report_types": {
-        "Violence": "n",
-        "Sexual Abuse": "n",
-        "Animal Abuse": "n",
-        "Criminal Activities": "n",
-        "Hate": "n",
-        "Bullying": "n",
-        "Suicide Or Self-Harm": "n",
-        "Dangerous Content": "n",
-        "Sexual Content": "n",
-        "Porn": "n",
-        "Drugs": "n",
-        "Firearms Or Weapons": "n",
-        "Sharing Personal Info": "n",
-        "Human Exploitation": "n",
-        "Under Age": "n"
+        "Violence": "y",
+        "Sexual Abuse": "y",
+        "Animal Abuse": "y",
+        "Criminal Activities": "y",
+        "Hate": "y",
+        "Bullying": "y",
+        "Suicide Or Self-Harm": "y",
+        "Dangerous Content": "y",
+        "Sexual Content": "y",
+        "Porn": "y",
+        "Drugs": "y",
+        "Firearms Or Weapons": "y",
+        "Sharing Personal Info": "y",
+        "Human Exploitation": "y",
+        "Under Age": "y"
     }
 }
